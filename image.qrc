@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>photop/download (1).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>photop/5a4f1c64c50dcbb4d497e54b641ae8ee.jpg</file>
+    <file>photop/51DNmPdYNzL_1024x1024_900d4108-e726-41e8-ac3c-08b00c64dd75_360x.jpg</file>
+    <file>photop/68d31fd307fb7c9cabc19091618d063f.jpg</file>
+    <file>photop/20565b94500e4e484e742f9b279e78a0.jpg</file>
+    <file>photop/357256fdd033776a3310589392ad788d.jpg</file>
+    <file>photop/b75efe91a0d2a9af4cee7577e992464d.jpg</file>
+    <file>photop/cb8fe639a69b4cb2f6a0fcd703ecd697.jpg</file>
+    <file>photop/efa938908f03dbdf498b46e5b8965aac.jpg</file>
+    <file>photop/SunvenoBasketballFootballSoccerandGolfSet_9_360x.jpg</file>
+    <file>photop/SunvenoRockingDinosaurwithWheels_2_360x.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>photop/5c4bfe88828c58cee514a4962fce3981.jpg</file>
+    <file>photop/8f2b4c2ea900323aec716ee886f7f066.jpg</file>
+    <file>photop/0204b73676cea3cda6b1ba4362a805b7.jpg</file>
+    <file>photop/0506b06e45ffd601a3c78d71dc708813.jpg</file>
+    <file>photop/af5318b5fb64d921a2d69969dd576e94.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>photop/052b9c901d45e33b659dbedb7ee243c0.jpg</file>
+    <file>photop/b2a7dc5ca195f635ce66665b00ae33a0.jpg</file>
+    <file>photop/e6991ed632c4dbf81dc2467f7a77f65e.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>photop/8d9cbf600f8a5749e42c8761f31f71d0.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>photop/eb8f6f18988140975da8553d15a8d25c.jpg</file>
+  </qresource>
+</RCC>
